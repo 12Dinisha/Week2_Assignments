@@ -1,5 +1,5 @@
 """
-AI Assignment - Week 2
+AI Assignment - Week 1
 Python Fundamentals for AI / ML
 Author: Dinisha Jain
 Purpose: Internship Assignment Submission
