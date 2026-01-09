@@ -1,4 +1,4 @@
-# Week 2 – AI/ML Internship Assignment
+# Week 1 – AI/ML Internship Assignment
 
 This repository contains the implementation of Python fundamentals as part of an AI/ML internship assignment.  
 The project demonstrates core Python concepts applied in a structured and practical manner.
